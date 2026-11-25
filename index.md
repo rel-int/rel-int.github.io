@@ -62,5 +62,5 @@ Category theory unifies the diagrams every industry draws. We have developed it 
 - {% include diagrams/qnlp.svg %} **2020** [QNLP](https://en.wikipedia.org/wiki/Quantum_natural_language_processing) The first language processing on quantum hardware.
 {: .cols-4 .halves .timeline}
 
-Our latest paper is [Tiny Recursive Message Passing](/paper). Our earlier work, before the company, was featured in [The Guardian](https://www.theguardian.com/science/2023/dec/16/physicist-bob-coecke-its-easier-to-convince-kids-than-adults-about-quantum-mechanics), [Forbes](https://www.forbes.com/sites/moorinsights/2021/10/13/cambridge-quantum-makes-quantum-natural-language-processing-a-reality/) and [New Scientist](https://www.newscientist.com/article/1955442-quantum-links-let-computers-understand-language/).
+Read our [recent papers](/papers). Our earlier work, before the company, was featured in [The Guardian](https://www.theguardian.com/science/2023/dec/16/physicist-bob-coecke-its-easier-to-convince-kids-than-adults-about-quantum-mechanics), [Forbes](https://www.forbes.com/sites/moorinsights/2021/10/13/cambridge-quantum-makes-quantum-natural-language-processing-a-reality/) and [New Scientist](https://www.newscientist.com/article/1955442-quantum-links-let-computers-understand-language/).
 {: .muted}

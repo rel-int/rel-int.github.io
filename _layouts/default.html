@@ -16,7 +16,7 @@
   <meta property="og:image" content="{{ '/pictures/preview.png' | absolute_url }}">
   <meta property="og:image:width" content="1200">
   <meta property="og:image:height" content="630">
-  <meta property="og:image:alt" content="Relational Intelligence: Structured Language Models for efficient and responsible AI">
+  <meta property="og:image:alt" content="Relational Intelligence: Structured Language Models for efficient and explainable AI">
   <meta name="twitter:card" content="summary_large_image">
   <script type="application/ld+json">
     {"@context": "https://schema.org", "@graph": [{"@type": "WebPage", "url": {{ page.url | absolute_url | jsonify }}, "name": {{ title | jsonify }}, "description": {{ description | jsonify }}}{% for node in page.schema %}, {{ node | jsonify }}{% endfor %}]}
@@ -142,8 +142,8 @@
   <header class="wrap site-nav">
     <a class="brand" href="{{ '/' | relative_url }}">Relational Intelligence</a>
     <nav aria-label="Main">
-      <a href="{{ '/structured-language-models' | relative_url }}"{% if page.url == '/structured-language-models' %} aria-current="page"{% endif %}>Models</a>
-      <a href="{{ '/paper' | relative_url }}"{% if page.url == '/paper' %} aria-current="page"{% endif %}>Paper</a>
+      <a href="{{ '/code' | relative_url }}"{% if page.url == '/code' %} aria-current="page"{% endif %}>Code</a>
+      <a href="{{ '/papers' | relative_url }}"{% if page.url == '/papers' %} aria-current="page"{% endif %}>Papers</a>
       <a href="{{ '/people' | relative_url }}"{% if page.url == '/people' %} aria-current="page"{% endif %}>People</a>
       <a href="{{ '/careers' | relative_url }}"{% if page.url == '/careers' %} aria-current="page"{% endif %}>Careers</a>
     </nav>
