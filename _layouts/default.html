@@ -59,7 +59,7 @@
     .wrap { max-width: 1120px; margin: 0 auto; padding: 0 16px; }
     @media (min-width: 640px) { .wrap { padding: 0 32px; } }
 
-    .site-nav { display: flex; align-items: center; justify-content: space-between; gap: 1rem; padding-top: 1.25rem; padding-bottom: 1.25rem; }
+    .site-nav { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 0.5rem 1rem; padding-top: 1.25rem; padding-bottom: 1.25rem; }
     .site-nav .brand { color: var(--red); font-weight: 700; text-decoration: none; white-space: nowrap; }
     .site-nav nav { display: flex; gap: 1.25rem; }
     .site-nav nav a { color: var(--text); text-decoration: none; font-weight: 500; }
@@ -142,6 +142,8 @@
   <header class="wrap site-nav">
     <a class="brand" href="{{ '/' | relative_url }}">Relational Intelligence</a>
     <nav aria-label="Main">
+      <a href="{{ '/structured-language-models' | relative_url }}"{% if page.url == '/structured-language-models' %} aria-current="page"{% endif %}>Models</a>
+      <a href="{{ '/paper' | relative_url }}"{% if page.url == '/paper' %} aria-current="page"{% endif %}>Paper</a>
       <a href="{{ '/people' | relative_url }}"{% if page.url == '/people' %} aria-current="page"{% endif %}>People</a>
       <a href="{{ '/careers' | relative_url }}"{% if page.url == '/careers' %} aria-current="page"{% endif %}>Careers</a>
     </nav>
