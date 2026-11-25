@@ -3,6 +3,62 @@ layout: default
 title: People · Relational Intelligence
 description: The directors, team and scientific advisors of Relational Intelligence, who pioneered categorical quantum mechanics, the ZX-calculus, DisCoCat and quantum natural language processing.
 permalink: /people
+schema:
+  - "@type": Person
+    name: Bob Coecke
+    jobTitle: CEO
+    url: "https://en.wikipedia.org/wiki/Bob_Coecke"
+    worksFor: {"@type": Organization, name: Relational Intelligence, url: "https://rel-int.ai"}
+  - "@type": Person
+    name: Giovanni de Felice
+    jobTitle: CSO
+    url: "https://scholar.google.com/citations?user=-_bkN1gAAAAJ&hl=en"
+    worksFor: {"@type": Organization, name: Relational Intelligence, url: "https://rel-int.ai"}
+  - "@type": Person
+    name: Alexis Toumi
+    jobTitle: CTO
+    url: "http://alexis.toumi.xyz/"
+    worksFor: {"@type": Organization, name: Relational Intelligence, url: "https://rel-int.ai"}
+  - "@type": Person
+    name: Tommaso Salvatori
+    jobTitle: Head of ML
+    url: "https://scholar.google.com/citations?user=fG9vZC4AAAAJ"
+    worksFor: {"@type": Organization, name: Relational Intelligence, url: "https://rel-int.ai"}
+  - "@type": Person
+    name: Destiny Chen
+    jobTitle: Head of Operations
+    url: "https://www.linkedin.com/in/destiny-chen-manager"
+    worksFor: {"@type": Organization, name: Relational Intelligence, url: "https://rel-int.ai"}
+  - "@type": Person
+    name: Daphne Wang
+    jobTitle: Member of Technical Staff
+    url: "https://wangdaphne.github.io/"
+    worksFor: {"@type": Organization, name: Relational Intelligence, url: "https://rel-int.ai"}
+  - "@type": Person
+    name: Alexandre Chalard
+    jobTitle: Member of Technical Staff
+    url: "https://scholar.google.com/citations?user=BMSS-tcAAAAJ"
+    worksFor: {"@type": Organization, name: Relational Intelligence, url: "https://rel-int.ai"}
+  - "@type": Person
+    name: Matteo Forasassi
+    jobTitle: Member of Technical Staff (part time)
+    url: "https://scholar.google.com/citations?user=md96RmMAAAAJ"
+    worksFor: {"@type": Organization, name: Relational Intelligence, url: "https://rel-int.ai"}
+  - "@type": Person
+    name: Samson Abramsky
+    jobTitle: Scientific advisor
+    url: "https://en.wikipedia.org/wiki/Samson_Abramsky"
+    worksFor: {"@type": Organization, name: Relational Intelligence, url: "https://rel-int.ai"}
+  - "@type": Person
+    name: Mehrnoosh Sadrzadeh
+    jobTitle: Scientific advisor
+    url: "https://en.wikipedia.org/wiki/Mehrnoosh_Sadrzadeh"
+    worksFor: {"@type": Organization, name: Relational Intelligence, url: "https://rel-int.ai"}
+  - "@type": Person
+    name: Amar Hadzihasanovic
+    jobTitle: Scientific advisor
+    url: "https://ioc.ee/~amar/"
+    worksFor: {"@type": Organization, name: Relational Intelligence, url: "https://rel-int.ai"}
 ---
 
 # People

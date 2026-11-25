@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rel-int.ai/sitemap.xml

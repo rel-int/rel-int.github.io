@@ -16,8 +16,11 @@
   <meta property="og:image" content="{{ '/pictures/preview.png' | absolute_url }}">
   <meta property="og:image:width" content="1200">
   <meta property="og:image:height" content="630">
-  <meta property="og:image:alt" content="Relational Intelligence: Structured Language Models for efficient and responsible AI">
+  <meta property="og:image:alt" content="Relational Intelligence: Structured Language Models for efficient and explainable AI">
   <meta name="twitter:card" content="summary_large_image">
+  <script type="application/ld+json">
+    {"@context": "https://schema.org", "@graph": [{"@type": "WebPage", "url": {{ page.url | absolute_url | jsonify }}, "name": {{ title | jsonify }}, "description": {{ description | jsonify }}}{% for node in page.schema %}, {{ node | jsonify }}{% endfor %}]}
+  </script>
   <meta name="theme-color" content="#040303">
   <link rel="icon" href="{{ '/favicon.ico' | relative_url }}" sizes="48x48">
   <link rel="icon" href="{{ '/pictures/icon-192.png' | relative_url }}" type="image/png" sizes="192x192">
