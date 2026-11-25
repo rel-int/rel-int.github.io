@@ -2,6 +2,21 @@
 layout: default
 title: Relational Intelligence · Structured Language Models
 description: Structured Language Models for efficient and responsible AI. Interpretable, small by design and hardware-agnostic.
+schema:
+  - "@type": Organization
+    name: Relational Intelligence
+    url: https://rel-int.ai
+    logo: https://rel-int.ai/pictures/icon-192.png
+    description: Structured Language Models for efficient and responsible AI. Interpretable, small by design and hardware-agnostic.
+    foundingDate: "2026"
+    founder:
+      - {"@type": Person, name: Bob Coecke, url: "https://en.wikipedia.org/wiki/Bob_Coecke"}
+      - {"@type": Person, name: Giovanni de Felice, url: "https://scholar.google.com/citations?user=-_bkN1gAAAAJ&hl=en"}
+      - {"@type": Person, name: Alexis Toumi, url: "https://alexis.toumi.xyz/"}
+      - {"@type": Person, name: Tommaso Salvatori, url: "https://scholar.google.com/citations?user=fG9vZC4AAAAJ"}
+    sameAs:
+      - https://www.linkedin.com/company/relational-intelligence
+      - https://github.com/relational-intelligence
 ---
 
 <div class="hero" markdown="1">
@@ -12,7 +27,7 @@ description: Structured Language Models for efficient and responsible AI. Interp
 <div markdown="1">
 # Relational Intelligence
 
-Structured Language Models<br>for efficient and explainable AI
+Structured Language Models<br>for efficient and responsible AI
 {: .tagline}
 
 - Efficient
@@ -21,6 +36,8 @@ Structured Language Models<br>for efficient and explainable AI
 {: .pills}
 </div>
 </div>
+
+Relational Intelligence is a company founded in 2026 by [Bob Coecke](https://en.wikipedia.org/wiki/Bob_Coecke), [Giovanni de Felice](https://scholar.google.com/citations?user=-_bkN1gAAAAJ&hl=en), [Alexis Toumi](https://alexis.toumi.xyz/) and [Tommaso Salvatori](https://scholar.google.com/citations?user=fG9vZC4AAAAJ), based in Oxford and Paris. It builds [Structured Language Models](#structured-language-models).
 
 ---
 
@@ -45,5 +62,5 @@ Category theory unifies the diagrams every industry draws. We have developed it 
 - {% include diagrams/qnlp.svg %} **2020** [QNLP](https://en.wikipedia.org/wiki/Quantum_natural_language_processing) The first language processing on quantum hardware.
 {: .cols-4 .halves .timeline}
 
-Featured in [The Guardian](https://www.theguardian.com/science/2023/dec/16/physicist-bob-coecke-its-easier-to-convince-kids-than-adults-about-quantum-mechanics), [Forbes](https://www.forbes.com/sites/moorinsights/2021/10/13/cambridge-quantum-makes-quantum-natural-language-processing-a-reality/) and [New Scientist](https://www.newscientist.com/article/1955442-quantum-links-let-computers-understand-language/).
+Read our [recent papers](/papers). Our earlier work was featured in [The Guardian](https://www.theguardian.com/science/2023/dec/16/physicist-bob-coecke-its-easier-to-convince-kids-than-adults-about-quantum-mechanics), [Forbes](https://www.forbes.com/sites/moorinsights/2021/10/13/cambridge-quantum-makes-quantum-natural-language-processing-a-reality/) and [New Scientist](https://www.newscientist.com/article/1955442-quantum-links-let-computers-understand-language/).
 {: .muted}

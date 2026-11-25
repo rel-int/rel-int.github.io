@@ -18,6 +18,9 @@
   <meta property="og:image:height" content="630">
   <meta property="og:image:alt" content="Relational Intelligence: Structured Language Models for efficient and responsible AI">
   <meta name="twitter:card" content="summary_large_image">
+  <script type="application/ld+json">
+    {"@context": "https://schema.org", "@graph": [{"@type": "WebPage", "url": {{ page.url | absolute_url | jsonify }}, "name": {{ title | jsonify }}, "description": {{ description | jsonify }}}{% for node in page.schema %}, {{ node | jsonify }}{% endfor %}]}
+  </script>
   <meta name="theme-color" content="#040303">
   <link rel="icon" href="{{ '/favicon.ico' | relative_url }}" sizes="48x48">
   <link rel="icon" href="{{ '/pictures/icon-192.png' | relative_url }}" type="image/png" sizes="192x192">
@@ -56,9 +59,9 @@
     .wrap { max-width: 1120px; margin: 0 auto; padding: 0 16px; }
     @media (min-width: 640px) { .wrap { padding: 0 32px; } }
 
-    .site-nav { display: flex; align-items: center; justify-content: space-between; gap: 1rem; padding-top: 1.25rem; padding-bottom: 1.25rem; }
+    .site-nav { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 0.5rem 1rem; padding-top: 1.25rem; padding-bottom: 1.25rem; }
     .site-nav .brand { color: var(--red); font-weight: 700; text-decoration: none; white-space: nowrap; }
-    .site-nav nav { display: flex; gap: 1.25rem; }
+    .site-nav nav { display: flex; flex-wrap: wrap; gap: 0.5rem 1.25rem; }
     .site-nav nav a { color: var(--text); text-decoration: none; font-weight: 500; }
     .site-nav nav a:hover, .site-nav nav a[aria-current] { color: var(--green); }
 
@@ -140,6 +143,8 @@
     <a class="brand" href="{{ '/' | relative_url }}">Relational Intelligence</a>
     <nav aria-label="Main">
       <a href="{{ '/people' | relative_url }}"{% if page.url == '/people' %} aria-current="page"{% endif %}>People</a>
+      <a href="{{ '/code' | relative_url }}"{% if page.url == '/code' %} aria-current="page"{% endif %}>Code</a>
+      <a href="{{ '/papers' | relative_url }}"{% if page.url == '/papers' %} aria-current="page"{% endif %}>Papers</a>
       <a href="{{ '/careers' | relative_url }}"{% if page.url == '/careers' %} aria-current="page"{% endif %}>Careers</a>
     </nav>
   </header>
