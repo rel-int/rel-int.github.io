@@ -12,7 +12,7 @@ schema:
     founder:
       - {"@type": Person, name: Bob Coecke, url: "https://en.wikipedia.org/wiki/Bob_Coecke"}
       - {"@type": Person, name: Giovanni de Felice, url: "https://scholar.google.com/citations?user=-_bkN1gAAAAJ&hl=en"}
-      - {"@type": Person, name: Alexis Toumi, url: "http://alexis.toumi.xyz/"}
+      - {"@type": Person, name: Alexis Toumi, url: "https://alexis.toumi.xyz/"}
       - {"@type": Person, name: Tommaso Salvatori, url: "https://scholar.google.com/citations?user=fG9vZC4AAAAJ"}
     sameAs:
       - https://www.linkedin.com/company/relational-intelligence
@@ -37,7 +37,7 @@ Structured Language Models<br>for efficient and explainable AI
 </div>
 </div>
 
-Relational Intelligence is a company founded in 2026 by [Bob Coecke](https://en.wikipedia.org/wiki/Bob_Coecke), [Giovanni de Felice](https://scholar.google.com/citations?user=-_bkN1gAAAAJ&hl=en), [Alexis Toumi](http://alexis.toumi.xyz/) and [Tommaso Salvatori](https://scholar.google.com/citations?user=fG9vZC4AAAAJ), based in Oxford and Paris. It builds [Structured Language Models](#structured-language-models).
+Relational Intelligence is a company founded in 2026 by [Bob Coecke](https://en.wikipedia.org/wiki/Bob_Coecke), [Giovanni de Felice](https://scholar.google.com/citations?user=-_bkN1gAAAAJ&hl=en), [Alexis Toumi](https://alexis.toumi.xyz/) and [Tommaso Salvatori](https://scholar.google.com/citations?user=fG9vZC4AAAAJ), based in Oxford and Paris. It builds [Structured Language Models](#structured-language-models).
 
 ---
 

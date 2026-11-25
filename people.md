@@ -17,7 +17,7 @@ schema:
   - "@type": Person
     name: Alexis Toumi
     jobTitle: CTO
-    url: "http://alexis.toumi.xyz/"
+    url: "https://alexis.toumi.xyz/"
     worksFor: {"@type": Organization, name: Relational Intelligence, url: "https://rel-int.ai"}
   - "@type": Person
     name: Tommaso Salvatori
@@ -71,7 +71,7 @@ At Oxford's [Quantum Group](https://www.cs.ox.ac.uk/activities/quantum/) we pion
 
 - ![Bob Coecke](/pictures/bob.jpg) **[Bob Coecke](https://en.wikipedia.org/wiki/Bob_Coecke)** *CEO* Pioneer of CQM, ZX, DisCoCat and QNLP. 20 years at Oxford, former Chief Scientist at Quantinuum.
 - ![Giovanni de Felice](/pictures/giovanni.jpg) **[Giovanni de Felice](https://scholar.google.com/citations?user=-_bkN1gAAAAJ&hl=en)** *CSO* Quantum photonics expert previously at Quantinuum, co-creator of DisCoPy. Oxford PhD.
-- ![Alexis Toumi](/pictures/alexis.jpg) **[Alexis Toumi](http://alexis.toumi.xyz/)** *CTO* Creator of DisCoPy, applied category theorist and AI researcher. Oxford PhD.
+- ![Alexis Toumi](/pictures/alexis.jpg) **[Alexis Toumi](https://alexis.toumi.xyz/)** *CTO* Creator of DisCoPy, applied category theorist and AI researcher. Oxford PhD.
 - ![Tommaso Salvatori](/pictures/tommaso.jpg) **[Tommaso Salvatori](https://scholar.google.com/citations?user=fG9vZC4AAAAJ)** *Head of ML* Neuroscience-inspired ML research at TU Wien and VERSES. Oxford PhD.
 {: .cols-2 .halves .people}
 

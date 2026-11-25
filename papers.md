@@ -9,7 +9,7 @@ permalink: /papers
 
 ## Recent work
 
-- **[Tiny Recursive Message Passing](https://arxiv.org/abs/2610.18649)** [Tommaso Salvatori](https://scholar.google.com/citations?user=fG9vZC4AAAAJ), [Matteo Forasassi](https://scholar.google.com/citations?user=md96RmMAAAAJ), [Alexis Toumi](http://alexis.toumi.xyz/) and [Giovanni de Felice](https://scholar.google.com/citations?user=-_bkN1gAAAAJ&hl=en), 2026. Message passing networks trained with the procedures of recursive transformers give small models for constraint reasoning.
+- **[Tiny Recursive Message Passing](https://arxiv.org/abs/2610.18649)** [Tommaso Salvatori](https://scholar.google.com/citations?user=fG9vZC4AAAAJ), [Matteo Forasassi](https://scholar.google.com/citations?user=md96RmMAAAAJ), [Alexis Toumi](https://alexis.toumi.xyz/) and [Giovanni de Felice](https://scholar.google.com/citations?user=-_bkN1gAAAAJ&hl=en), 2026. Message passing networks trained with the procedures of recursive transformers give small models for constraint reasoning.
 - **[Circular Predictive Coding Unlocks Effective Depth](https://arxiv.org/abs/2611.27610)** [Tommaso Salvatori](https://scholar.google.com/citations?user=fG9vZC4AAAAJ) and [Matteo Forasassi](https://scholar.google.com/citations?user=md96RmMAAAAJ), 2026. Circular predictive coding networks get their depth from energy minimization, rather than from stacking layers.
 {: .cols-2 .cards}
 
