@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Papers · Relational Intelligence
-description: Recent papers on message passing, predictive coding and quantum machine learning, and earlier work by our team on language, interpretability and quantum computing.
+description: Recent papers and earlier work on language, interpretability and quantum computing.
 permalink: /papers
 ---
 
@@ -17,8 +17,6 @@ permalink: /papers
 ---
 
 ## Earlier work
-
-These papers predate the company.
 
 - [Scalable and interpretable quantum natural language processing: an implementation on trapped ions](https://arxiv.org/abs/2409.08777), Tiffany Duneau et al., 2024: the first implementation of text-level quantum natural language processing.
 - [Quantum Algorithms for Compositional Text Processing](https://arxiv.org/abs/2408.06061), Tuomas Laakkonen et al., 2024: QDisCoCirc, a quantum adaptation of DisCoCirc, with quantum algorithms for question answering.
