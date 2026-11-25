@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1070 470" font-family="Helvetica, Arial, sans-serif">
+<defs><marker id="b" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#2e6c99"/></marker></defs>
+<rect width="1070" height="470" fill="#fff"/>
+<text x="470" y="32" font-size="20" text-anchor="middle">Quantum text encoding</text>
+<rect x="122" y="14" width="118" height="28" rx="6" fill="#fff" stroke="#2e6c99" stroke-width="2"/><text x="181" y="34" font-size="15" text-anchor="middle">DisCoCirc</text>
+
+<rect x="210" y="68" width="525" height="187" fill="#f6e3db" stroke="#000" stroke-width="2.5" stroke-dasharray="10,6"/>
+<polygon points="218,113.5 345,137.5 345,185.5 218,209.5" fill="#e03c31" stroke="#000" stroke-width="2"/>
+<text x="282" y="167.5" font-size="13" text-anchor="middle">Structural Parser</text>
+<path d="M350,161.5 L366,161.5" stroke="#2e6c99" stroke-width="2" marker-end="url(#b)"/>
+<rect x="372" y="87" width="355" height="152" fill="#fff"/>
+<rect x="478" y="67" width="138" height="21" fill="#fff" stroke="#e6e6e6"/><text x="547" y="82" font-size="15" fill="#3a8bbf" text-anchor="middle">Quantum circuit</text>
+<rect x="12" y="146.5" width="176" height="30" rx="7" fill="#f2b134" stroke="#000" stroke-width="2"/><text x="100" y="166.5" font-size="15" text-anchor="middle">TV Program 1 → Text 1</text>
+<path d="M190,161.5 L206,161.5" stroke="#2e6c99" stroke-width="2" marker-end="url(#b)"/>
+<text x="398" y="107" font-size="11" font-family="Courier New, monospace" text-anchor="middle">q[0]</text>
+<line x1="418" y1="103" x2="727" y2="103" stroke="#000" stroke-width="1"/>
+<rect x="412.5" y="95" width="65" height="16" fill="#e56b65" stroke="#555" stroke-width="0.8"/><text x="445" y="107" font-size="8.5" font-family="Times New Roman, serif" text-anchor="middle">Rx(2*we...)</text>
+<rect x="487.5" y="95" width="65" height="16" fill="#cdeec9" stroke="#555" stroke-width="0.8"/><text x="520" y="107" font-size="8.5" font-family="Times New Roman, serif" text-anchor="middle">Rz(2*we...)</text>
+<rect x="562.5" y="95" width="65" height="16" fill="#e56b65" stroke="#555" stroke-width="0.8"/><text x="595" y="107" font-size="8.5" font-family="Times New Roman, serif" text-anchor="middle">Rx(2*we...)</text>
+<text x="398" y="131" font-size="11" font-family="Courier New, monospace" text-anchor="middle">q[1]</text>
+<line x1="418" y1="127" x2="727" y2="127" stroke="#000" stroke-width="1"/>
+<text x="398" y="155" font-size="11" font-family="Courier New, monospace" text-anchor="middle">q[2]</text>
+<line x1="418" y1="151" x2="727" y2="151" stroke="#000" stroke-width="1"/>
+<rect x="412.5" y="143" width="65" height="16" fill="#e56b65" stroke="#555" stroke-width="0.8"/><text x="445" y="155" font-size="8.5" font-family="Times New Roman, serif" text-anchor="middle">Rx(2*TV...)</text>
+<rect x="487.5" y="143" width="65" height="16" fill="#cdeec9" stroke="#555" stroke-width="0.8"/><text x="520" y="155" font-size="8.5" font-family="Times New Roman, serif" text-anchor="middle">Rz(2*TV...)</text>
+<rect x="562.5" y="143" width="65" height="16" fill="#e56b65" stroke="#555" stroke-width="0.8"/><text x="595" y="155" font-size="8.5" font-family="Times New Roman, serif" text-anchor="middle">Rx(2*TV...)</text>
+<rect x="637.5" y="143" width="65" height="16" fill="#e56b65" stroke="#555" stroke-width="0.8"/><text x="670" y="155" font-size="8.5" font-family="Times New Roman, serif" text-anchor="middle">Rx(2*ca...)</text>
+<text x="398" y="179" font-size="11" font-family="Courier New, monospace" text-anchor="middle">q[3]</text>
+<line x1="418" y1="175" x2="727" y2="175" stroke="#000" stroke-width="1"/>
+<rect x="412.5" y="167" width="65" height="16" fill="#e56b65" stroke="#555" stroke-width="0.8"/><text x="445" y="179" font-size="8.5" font-family="Times New Roman, serif" text-anchor="middle">Rx(2*We...)</text>
+<rect x="487.5" y="167" width="65" height="16" fill="#cdeec9" stroke="#555" stroke-width="0.8"/><text x="520" y="179" font-size="8.5" font-family="Times New Roman, serif" text-anchor="middle">Rz(2*We...)</text>
+<rect x="562.5" y="167" width="65" height="16" fill="#e56b65" stroke="#555" stroke-width="0.8"/><text x="595" y="179" font-size="8.5" font-family="Times New Roman, serif" text-anchor="middle">Rx(2*We...)</text>
+<rect x="637.5" y="167" width="65" height="16" fill="#e56b65" stroke="#555" stroke-width="0.8"/><text x="670" y="179" font-size="8.5" font-family="Times New Roman, serif" text-anchor="middle">Rx(2*to...)</text>
+<text x="398" y="203" font-size="11" font-family="Courier New, monospace" text-anchor="middle">q[4]</text>
+<line x1="418" y1="199" x2="727" y2="199" stroke="#000" stroke-width="1"/>
+<rect x="412.5" y="191" width="65" height="16" fill="#e56b65" stroke="#555" stroke-width="0.8"/><text x="445" y="203" font-size="8.5" font-family="Times New Roman, serif" text-anchor="middle">Rx(2*mo...)</text>
+<rect x="487.5" y="191" width="65" height="16" fill="#cdeec9" stroke="#555" stroke-width="0.8"/><text x="520" y="203" font-size="8.5" font-family="Times New Roman, serif" text-anchor="middle">Rz(2*mo...)</text>
+<rect x="562.5" y="191" width="65" height="16" fill="#e56b65" stroke="#555" stroke-width="0.8"/><text x="595" y="203" font-size="8.5" font-family="Times New Roman, serif" text-anchor="middle">Rx(2*mo...)</text>
+<rect x="637.5" y="191" width="65" height="16" fill="#e56b65" stroke="#555" stroke-width="0.8"/><text x="670" y="203" font-size="8.5" font-family="Times New Roman, serif" text-anchor="middle">Rx(2*to...)</text>
+<text x="398" y="227" font-size="11" font-family="Courier New, monospace" text-anchor="middle">q[5]</text>
+<line x1="418" y1="223" x2="727" y2="223" stroke="#000" stroke-width="1"/>
+<rect x="412.5" y="215" width="65" height="16" fill="#e56b65" stroke="#555" stroke-width="0.8"/><text x="445" y="227" font-size="8.5" font-family="Times New Roman, serif" text-anchor="middle">Rx(2*as...)</text>
+<rect x="487.5" y="215" width="65" height="16" fill="#cdeec9" stroke="#555" stroke-width="0.8"/><text x="520" y="227" font-size="8.5" font-family="Times New Roman, serif" text-anchor="middle">Rz(2*as...)</text>
+<rect x="562.5" y="215" width="65" height="16" fill="#e56b65" stroke="#555" stroke-width="0.8"/><text x="595" y="227" font-size="8.5" font-family="Times New Roman, serif" text-anchor="middle">Rx(2*as...)</text>
+<rect x="637.5" y="215" width="65" height="16" fill="#e56b65" stroke="#555" stroke-width="0.8"/><text x="670" y="227" font-size="8.5" font-family="Times New Roman, serif" text-anchor="middle">Rx(2*to...)</text>
+<line x1="700" y1="103" x2="700" y2="121" stroke="#000" stroke-width="1"/><circle cx="700" cy="103" r="3" fill="#000"/>
+<rect x="691" y="119" width="18" height="16" fill="#e56b65" stroke="#555" stroke-width="0.8"/><text x="700" y="131" font-size="11" text-anchor="middle">x</text>
+<path d="M240,28 L288,28 L288,104" fill="none" stroke="#2e6c99" stroke-width="2" stroke-dasharray="5,4" marker-end="url(#b)"/>
+<rect x="210" y="272" width="525" height="173" fill="#f6e3db" stroke="#000" stroke-width="2.5" stroke-dasharray="10,6"/>
+<polygon points="218,310.5 345,334.5 345,382.5 218,406.5" fill="#e03c31" stroke="#000" stroke-width="2"/>
+<text x="282" y="364.5" font-size="13" text-anchor="middle">Structural Parser</text>
+<path d="M350,358.5 L366,358.5" stroke="#2e6c99" stroke-width="2" marker-end="url(#b)"/>
+<rect x="372" y="302" width="355" height="128" fill="#fff"/>
+<rect x="478" y="281" width="138" height="21" fill="#fff" stroke="#e6e6e6"/><text x="547" y="296" font-size="15" fill="#3a8bbf" text-anchor="middle">Quantum circuit</text>
+<rect x="12" y="343.5" width="176" height="30" rx="7" fill="#f2b134" stroke="#000" stroke-width="2"/><text x="100" y="363.5" font-size="15" text-anchor="middle">TV Program 2 → Text 2</text>
+<path d="M190,358.5 L206,358.5" stroke="#2e6c99" stroke-width="2" marker-end="url(#b)"/>
+<text x="398" y="322" font-size="11" font-family="Courier New, monospace" text-anchor="middle">q[0]</text>
+<line x1="418" y1="318" x2="727" y2="318" stroke="#000" stroke-width="1"/>
+<rect x="418.0" y="310" width="48" height="16" fill="#e56b65" stroke="#555" stroke-width="0.8"/><text x="442" y="322" font-size="8.5" font-family="Times New Roman, serif" text-anchor="middle">Rx(2*I_...)</text>
+<rect x="476.0" y="310" width="48" height="16" fill="#cdeec9" stroke="#555" stroke-width="0.8"/><text x="500" y="322" font-size="8.5" font-family="Times New Roman, serif" text-anchor="middle">Rz(2*I_...)</text>
+<rect x="534.0" y="310" width="48" height="16" fill="#e56b65" stroke="#555" stroke-width="0.8"/><text x="558" y="322" font-size="8.5" font-family="Times New Roman, serif" text-anchor="middle">Rx(2*I_...)</text>
+<rect x="592.0" y="310" width="48" height="16" fill="#e56b65" stroke="#555" stroke-width="0.8"/><text x="616" y="322" font-size="8.5" font-family="Times New Roman, serif" text-anchor="middle">Rx(2*am...)</text>
+<rect x="650.0" y="310" width="48" height="16" fill="#cdeec9" stroke="#555" stroke-width="0.8"/><text x="674" y="322" font-size="8.5" font-family="Times New Roman, serif" text-anchor="middle">Rz(2*am...)</text>
+<text x="398" y="346" font-size="11" font-family="Courier New, monospace" text-anchor="middle">q[1]</text>
+<line x1="418" y1="342" x2="727" y2="342" stroke="#000" stroke-width="1"/>
+<rect x="418.0" y="334" width="48" height="16" fill="#e56b65" stroke="#555" stroke-width="0.8"/><text x="442" y="346" font-size="8.5" font-family="Times New Roman, serif" text-anchor="middle">Rx(2*re...)</text>
+<rect x="476.0" y="334" width="48" height="16" fill="#cdeec9" stroke="#555" stroke-width="0.8"/><text x="500" y="346" font-size="8.5" font-family="Times New Roman, serif" text-anchor="middle">Rz(2*re...)</text>
+<rect x="534.0" y="334" width="48" height="16" fill="#e56b65" stroke="#555" stroke-width="0.8"/><text x="558" y="346" font-size="8.5" font-family="Times New Roman, serif" text-anchor="middle">Rx(2*re...)</text>
+<rect x="592.0" y="334" width="48" height="16" fill="#e56b65" stroke="#555" stroke-width="0.8"/><text x="616" y="346" font-size="8.5" font-family="Times New Roman, serif" text-anchor="middle">Rx(2*am...)</text>
+<rect x="650.0" y="334" width="48" height="16" fill="#cdeec9" stroke="#555" stroke-width="0.8"/><text x="674" y="346" font-size="8.5" font-family="Times New Roman, serif" text-anchor="middle">Rz(2*am...)</text>
+<text x="398" y="370" font-size="11" font-family="Courier New, monospace" text-anchor="middle">q[2]</text>
+<line x1="418" y1="366" x2="727" y2="366" stroke="#000" stroke-width="1"/>
+<rect x="418.0" y="358" width="48" height="16" fill="#e56b65" stroke="#555" stroke-width="0.8"/><text x="442" y="370" font-size="8.5" font-family="Times New Roman, serif" text-anchor="middle">Rx(2*UC...)</text>
+<rect x="476.0" y="358" width="48" height="16" fill="#cdeec9" stroke="#555" stroke-width="0.8"/><text x="500" y="370" font-size="8.5" font-family="Times New Roman, serif" text-anchor="middle">Rz(2*UC...)</text>
+<rect x="534.0" y="358" width="48" height="16" fill="#e56b65" stroke="#555" stroke-width="0.8"/><text x="558" y="370" font-size="8.5" font-family="Times New Roman, serif" text-anchor="middle">Rx(2*UC...)</text>
+<rect x="592.0" y="358" width="48" height="16" fill="#e56b65" stroke="#555" stroke-width="0.8"/><text x="616" y="370" font-size="8.5" font-family="Times New Roman, serif" text-anchor="middle">Rx(2*am...)</text>
+<rect x="650.0" y="358" width="48" height="16" fill="#cdeec9" stroke="#555" stroke-width="0.8"/><text x="674" y="370" font-size="8.5" font-family="Times New Roman, serif" text-anchor="middle">Rz(2*am...)</text>
+<text x="398" y="394" font-size="11" font-family="Courier New, monospace" text-anchor="middle">q[3]</text>
+<line x1="418" y1="390" x2="727" y2="390" stroke="#000" stroke-width="1"/>
+<rect x="418.0" y="382" width="48" height="16" fill="#e56b65" stroke="#555" stroke-width="0.8"/><text x="442" y="394" font-size="8.5" font-family="Times New Roman, serif" text-anchor="middle">Rx(2*We...)</text>
+<rect x="476.0" y="382" width="48" height="16" fill="#cdeec9" stroke="#555" stroke-width="0.8"/><text x="500" y="394" font-size="8.5" font-family="Times New Roman, serif" text-anchor="middle">Rz(2*We...)</text>
+<rect x="534.0" y="382" width="48" height="16" fill="#e56b65" stroke="#555" stroke-width="0.8"/><text x="558" y="394" font-size="8.5" font-family="Times New Roman, serif" text-anchor="middle">Rx(2*We...)</text>
+<rect x="592.0" y="382" width="48" height="16" fill="#e56b65" stroke="#555" stroke-width="0.8"/><text x="616" y="394" font-size="8.5" font-family="Times New Roman, serif" text-anchor="middle">Rx(2*ar...)</text>
+<rect x="650.0" y="382" width="48" height="16" fill="#cdeec9" stroke="#555" stroke-width="0.8"/><text x="674" y="394" font-size="8.5" font-family="Times New Roman, serif" text-anchor="middle">Rz(2*ar...)</text>
+<text x="398" y="418" font-size="11" font-family="Courier New, monospace" text-anchor="middle">q[4]</text>
+<line x1="418" y1="414" x2="727" y2="414" stroke="#000" stroke-width="1"/>
+<rect x="418.0" y="406" width="48" height="16" fill="#e56b65" stroke="#555" stroke-width="0.8"/><text x="442" y="418" font-size="8.5" font-family="Times New Roman, serif" text-anchor="middle">Rx(2*BB...)</text>
+<rect x="476.0" y="406" width="48" height="16" fill="#cdeec9" stroke="#555" stroke-width="0.8"/><text x="500" y="418" font-size="8.5" font-family="Times New Roman, serif" text-anchor="middle">Rz(2*BB...)</text>
+<rect x="534.0" y="406" width="48" height="16" fill="#e56b65" stroke="#555" stroke-width="0.8"/><text x="558" y="418" font-size="8.5" font-family="Times New Roman, serif" text-anchor="middle">Rx(2*BB...)</text>
+<rect x="592.0" y="406" width="48" height="16" fill="#e56b65" stroke="#555" stroke-width="0.8"/><text x="616" y="418" font-size="8.5" font-family="Times New Roman, serif" text-anchor="middle">Rx(2*ar...)</text>
+<rect x="650.0" y="406" width="48" height="16" fill="#cdeec9" stroke="#555" stroke-width="0.8"/><text x="674" y="418" font-size="8.5" font-family="Times New Roman, serif" text-anchor="middle">Rz(2*ar...)</text>
+<path d="M737,161 L755,161" stroke="#2e6c99" stroke-width="2" marker-end="url(#b)"/><rect x="758" y="147" width="128" height="28" rx="6" fill="#f2b134" stroke="#000" stroke-width="2"/><text x="822.0" y="166.0" font-size="14" text-anchor="middle">Output state <tspan font-style="italic" font-family="Times New Roman, serif">ρ</tspan><tspan font-size="10" dy="4">1</tspan></text>
+<path d="M737,358 L755,358" stroke="#2e6c99" stroke-width="2" marker-end="url(#b)"/><rect x="758" y="344" width="128" height="28" rx="6" fill="#f2b134" stroke="#000" stroke-width="2"/><text x="822.0" y="363.0" font-size="14" text-anchor="middle">Output state <tspan font-style="italic" font-family="Times New Roman, serif">ρ</tspan><tspan font-size="10" dy="4">2</tspan></text>
+<rect x="812" y="246" width="128" height="30" rx="6" fill="#f2b134" stroke="#000" stroke-width="2"/><text x="876.0" y="266.0" font-size="14" text-anchor="middle">Fidelity F(<tspan font-style="italic" font-family="Times New Roman, serif">ρ</tspan><tspan font-size="10" dy="4">1</tspan><tspan dy="-4">, </tspan><tspan font-style="italic" font-family="Times New Roman, serif">ρ</tspan><tspan font-size="10" dy="4">2</tspan><tspan dy="-4">)</tspan></text>
+<path d="M845,180 L868,240" stroke="#2e6c99" stroke-width="2" marker-end="url(#b)"/><path d="M845,340 L868,282" stroke="#2e6c99" stroke-width="2" marker-end="url(#b)"/>
+<path d="M942,261 L962,261" stroke="#2e6c99" stroke-width="2" marker-end="url(#b)"/><rect x="965" y="232" width="90" height="58" rx="6" fill="#f2b134" stroke="#000" stroke-width="2"/><text x="1010.0" y="249.0" font-size="14" text-anchor="middle">Similarity</text><text x="1010.0" y="266.0" font-size="14" text-anchor="middle">score</text><text x="1010.0" y="283.0" font-size="14" text-anchor="middle"><tspan font-style="italic" font-family="Times New Roman, serif">s</tspan> ∈ [0,1]</text>
+</svg>

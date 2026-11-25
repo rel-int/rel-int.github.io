@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 385" font-family="'Times New Roman', Times, serif" font-weight="bold">
+<defs><marker id="k" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#000"/></marker>
+<marker id="r" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="4" markerHeight="4" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#e0605a"/></marker></defs>
+<rect width="500" height="385" fill="#fff"/>
+<rect x="194" y="29" width="167" height="66" rx="9" fill="none" stroke="#000" stroke-width="2" stroke-dasharray="7,5"/>
+<rect x="108" y="95" width="67" height="170" rx="9" fill="none" stroke="#000" stroke-width="2" stroke-dasharray="7,5"/>
+<rect x="387" y="95" width="67" height="170" rx="9" fill="none" stroke="#000" stroke-width="2" stroke-dasharray="7,5"/>
+<rect x="194" y="275" width="167" height="67" rx="9" fill="none" stroke="#000" stroke-width="2" stroke-dasharray="7,5"/>
+<circle cx="215" cy="56" r="16" fill="#f2a8a3" stroke="#000" stroke-width="1.6"/><circle cx="223" cy="63" r="16" fill="#b7dcb4" stroke="#000" stroke-width="1.6"/>
+<circle cx="270" cy="56" r="16" fill="#f2a8a3" stroke="#000" stroke-width="1.6"/><circle cx="278" cy="63" r="16" fill="#b7dcb4" stroke="#000" stroke-width="1.6"/>
+<circle cx="324" cy="56" r="16" fill="#f2a8a3" stroke="#000" stroke-width="1.6"/><circle cx="332" cy="63" r="16" fill="#b7dcb4" stroke="#000" stroke-width="1.6"/>
+<circle cx="134" cy="120" r="16" fill="#f2a8a3" stroke="#000" stroke-width="1.6"/><circle cx="142" cy="127" r="16" fill="#b7dcb4" stroke="#000" stroke-width="1.6"/>
+<circle cx="134" cy="174" r="16" fill="#f2a8a3" stroke="#000" stroke-width="1.6"/><circle cx="142" cy="181" r="16" fill="#b7dcb4" stroke="#000" stroke-width="1.6"/>
+<circle cx="134" cy="228" r="16" fill="#f2a8a3" stroke="#000" stroke-width="1.6"/><circle cx="142" cy="235" r="16" fill="#b7dcb4" stroke="#000" stroke-width="1.6"/>
+<circle cx="413" cy="120" r="16" fill="#f2a8a3" stroke="#000" stroke-width="1.6"/><circle cx="421" cy="127" r="16" fill="#b7dcb4" stroke="#000" stroke-width="1.6"/>
+<circle cx="413" cy="174" r="16" fill="#f2a8a3" stroke="#000" stroke-width="1.6"/><circle cx="421" cy="181" r="16" fill="#b7dcb4" stroke="#000" stroke-width="1.6"/>
+<circle cx="413" cy="228" r="16" fill="#f2a8a3" stroke="#000" stroke-width="1.6"/><circle cx="421" cy="235" r="16" fill="#b7dcb4" stroke="#000" stroke-width="1.6"/>
+<circle cx="215" cy="302" r="16" fill="#f2a8a3" stroke="#000" stroke-width="1.6"/><circle cx="223" cy="309" r="16" fill="#b7dcb4" stroke="#000" stroke-width="1.6"/>
+<circle cx="270" cy="302" r="16" fill="#f2a8a3" stroke="#000" stroke-width="1.6"/><circle cx="278" cy="309" r="16" fill="#b7dcb4" stroke="#000" stroke-width="1.6"/>
+<circle cx="324" cy="302" r="16" fill="#f2a8a3" stroke="#000" stroke-width="1.6"/><circle cx="332" cy="309" r="16" fill="#b7dcb4" stroke="#000" stroke-width="1.6"/>
+<path d="M142,92 C142,50 150,43 188,43" fill="none" stroke="#000" stroke-width="2" marker-end="url(#k)"/>
+<path d="M365,63 C400,63 420,68 421,88" fill="none" stroke="#000" stroke-width="2" marker-end="url(#k)"/>
+<path d="M421,270 C421,300 400,309 367,309" fill="none" stroke="#000" stroke-width="2" marker-end="url(#k)"/>
+<path d="M190,309 C150,309 144,300 142,272" fill="none" stroke="#000" stroke-width="2" marker-end="url(#k)"/>
+<path d="M2,127 L102,128" stroke="#000" stroke-width="2" marker-end="url(#k)"/><path d="M102,240 L4,240" stroke="#000" stroke-width="2" marker-end="url(#k)"/>
+<path d="M214,201 A70,70 0 1 0 237,128" fill="none" stroke="#e0605a" stroke-width="5" marker-end="url(#r)"/><circle cx="214" cy="201" r="5" fill="#e0605a"/>
+<text x="278" y="20" font-size="26" text-anchor="middle">x<tspan font-size="17" dy="6">1</tspan></text>
+<text x="480" y="190" font-size="26" text-anchor="middle">x<tspan font-size="17" dy="6">2</tspan></text>
+<text x="278" y="375" font-size="26" text-anchor="middle">x<tspan font-size="17" dy="6">3</tspan></text>
+<text x="52" y="190" font-size="24" text-anchor="middle">x<tspan font-size="16" dy="6">0</tspan><tspan dy="-6">≡x</tspan><tspan font-size="16" dy="6">4</tspan></text>
+</svg>
