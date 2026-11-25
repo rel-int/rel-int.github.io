@@ -12,5 +12,5 @@ permalink: /code
 - ![A ZX diagram with two green nodes, a red node, a loop and a crossing](/pictures/optyx-zx.png) **[optyx](https://github.com/quantinuum-dev/optyx)** ZX-based software for networked quantum computing.
 {: .cols-3 .cards .code}
 
-The first two diagrams are drawn by DisCoPy. The third is from the optyx paper.
+The first two diagrams are drawn by DisCoPy. The third is from the [optyx paper](https://arxiv.org/abs/2512.09648).
 {: .muted}
