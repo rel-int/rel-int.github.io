@@ -104,6 +104,8 @@
     ul.timeline li { color: var(--muted); }
     ul.timeline li > svg, ul.cards li > svg { background: none; border: 0; padding: 0; }
     ul.cards li > svg { height: 160px; }
+    ul.cards li img { color-scheme: light; display: block; width: 100%; height: auto; aspect-ratio: 4 / 3; object-fit: contain; background: #fff; border-radius: 12px; padding: 1.25rem; margin-bottom: 1rem; }
+    ul.code { grid-auto-rows: 1fr; }
     ul.timeline li a { display: block; font-weight: 700; }
     .d-wire, .d-path, .d-lens, .d-faint { fill: none; stroke-linecap: round; }
     .d-wire { stroke: var(--diagram); stroke-width: 2; }
@@ -130,6 +132,7 @@
     ul.people li strong a:hover { color: var(--green); }
     ul.people li em { display: block; font-style: normal; font-weight: 600; color: var(--text); margin-bottom: 0.4em; }
     .center { text-align: center; }
+    ul.papers { grid-auto-rows: 1fr; }
 
     footer { border-top: 1px solid var(--line); padding: 2rem 0 3rem; color: var(--muted); }
     footer .wrap { display: flex; flex-wrap: wrap; gap: 0.75rem 1.5rem; align-items: center; justify-content: space-between; }
