@@ -142,9 +142,9 @@
   <header class="wrap site-nav">
     <a class="brand" href="{{ '/' | relative_url }}">Relational Intelligence</a>
     <nav aria-label="Main">
+      <a href="{{ '/people' | relative_url }}"{% if page.url == '/people' %} aria-current="page"{% endif %}>People</a>
       <a href="{{ '/code' | relative_url }}"{% if page.url == '/code' %} aria-current="page"{% endif %}>Code</a>
       <a href="{{ '/papers' | relative_url }}"{% if page.url == '/papers' %} aria-current="page"{% endif %}>Papers</a>
-      <a href="{{ '/people' | relative_url }}"{% if page.url == '/people' %} aria-current="page"{% endif %}>People</a>
       <a href="{{ '/careers' | relative_url }}"{% if page.url == '/careers' %} aria-current="page"{% endif %}>Careers</a>
     </nav>
   </header>
